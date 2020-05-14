@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UniversidadApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="student_id_lbl">Matrícula</string>
+    <string name="student_name_lbl">Nombre</string>
+    <string name="student_class_lbl">Materia</string>
+    <string name="insert_btn_txt">Insertar</string>
+    <string name="sys_log_lbl">Log de sistema</string>
+    <string name="data_successfully_inserted">Datos insertados exitosamente</string>
+    <string name="timeout_ex_txt">Tiempo de carga expirado. Intente de nuevo.</string>
+</resources>
